@@ -1,11 +1,14 @@
 .name{
-    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    font-family: 'Lucida Sans';
     font-size: large;
     color: black;
 }
-.scene{
+.direction
+    font-family:Times New Roman;
     font-size: large;
-}
+    color: black;
+    background-color: "pink"
+
 
 .speech{
     font-style: italic;
@@ -13,3 +16,4 @@
     font-size: 15px;
     color: black;
     text-indent: 12px;
+}
