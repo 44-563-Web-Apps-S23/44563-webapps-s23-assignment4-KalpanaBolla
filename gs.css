@@ -46,3 +46,17 @@ table,th,td{
     background-color: aqua;
     
 }
+ul.navbar-horizontal {
+    list-style-type: none;
+    margin: 10px;;
+    padding: 20px;
+}
+ul.navbar-horizontal li {
+    float:left; 
+    color:#000;
+    background-color:bisque;
+}
+ul.navbar-horizontal li:hover {
+    text-shadow: 5px 5px 10px black;
+    background-color:antiquewhite;
+}
