@@ -7,15 +7,21 @@
 
 .mary{
     color:violet;
+    border-style: dotted;
 }
 .mary:hover{
+    text-shadow: 3px 3px;
     background-color: greenyellow;
-    color: aqua;
+    color:blueviolet;
 }
-
+.aunt_candance{
+    color: blue;
+    border-style: dotted;
+}
 .aunt_candace:hover{
+    text-shadow: 3px 3px;
     background-color: greenyellow;
-    color: aquamarine;
+    color: brown;
 }
 
 .direction{
